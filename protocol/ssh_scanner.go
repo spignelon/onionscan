@@ -5,9 +5,9 @@ import (
 	"crypto/md5"
 	"errors"
 	"fmt"
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/report"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/spignelon/onionscan/config"
+	"github.com/spignelon/onionscan/report"
+	"github.com/spignelon/onionscan/utils"
 	"golang.org/x/crypto/ssh"
 	"net"
 )
